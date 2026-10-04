@@ -1,6 +1,6 @@
 # Vector Embedding for Capability Composition
 **Alan T. Robi**
-#TCR24CS009
+# TCR24CS009
 
 A formal, interpretable **Hybrid Structured Capability Embedding** system implemented in Python.
 
