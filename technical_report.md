@@ -56,7 +56,7 @@ Before developing the proposed model, four major representation paradigms were a
 
 ---
 
-## 4. Proposed Representation
+## 4. Proposed Representation*
 
 We design a **Hybrid Structured Capability Embedding** that combines symbolic multi-hot feature sub-vectors with normalized numerical operational attributes.
 
@@ -294,3 +294,6 @@ The experimental findings demonstrate that by constructing a **Hybrid Structured
 1. Mikolov, T., Chen, K., Corrado, G., Sutskever, I., & Dean, J. (2013). Efficient Estimation of Word Representations in Vector Space. *arXiv preprint arXiv:1301.3781*.
 2. Ghallab, M., Nau, D., & Traverso, P. (2004). *Automated Planning: Theory and Practice*. Morgan Kaufmann.
 3. Jolliffe, I. T., & Cadima, J. (2016). Principal component analysis: a review and recent developments. *Philosophical Transactions of the Royal Society A*, 374(2065), 20150202.
+
+
+*Kindly use other tools to view the .md file if the content of the file seems confusing.
