@@ -1,7 +1,6 @@
 # Design of a Vector Embedding for Capability Composition: Formal Representations, Compatibility, and Compositional Reasoning
 
-**Course**: PCCST503 - Advanced Application Design & Planning  
-**Assignment**: Assignment 2  
+
 **Domain**: E-Commerce & Order-Processing Capability System  
 
 ---
