@@ -30,11 +30,11 @@ Where:
 - $Rel_i, A_i$: Reliability $\in [0, 1]$ and Availability $\in [0, 1]$
 - $M_i$: Execution mechanism details (e.g. `{method: POST, endpoint: /orders}`)
 
-### Structured Vector Encodings
+### Structured Vector Encodings*
 1. **Capability Vector**: Concatenation of sub-vectors:
    $$
    V(C_i) = [ V_{type} \mid V_{inputs} \mid V_{outputs} \mid V_{preconditions} \mid V_{effects} \mid V_{constraints} \mid V_{resources} \mid V_{mechanism} \mid V_{operational} ]
-   $$*
+   $$
 2. **Dense Embedding**: $\mathbf{e}(C_i) = \text{PCA}_{16}(V(C_i))$
 3. **Directional Compatibility Score**:
    $$
