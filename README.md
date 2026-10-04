@@ -93,7 +93,7 @@ VectorRep/
 
 ### Installation Steps
 ```bash
-# 1. Clone or navigate to the workspace directory
+# 1. Clone or navigate to the workspace directory (working directory may not be VectorRep. Below is an example using the working directory as VectorRep. Kindly use your working directory which contains all the files in the repository)
 cd VectorRep
 
 # 2. Install dependencies
