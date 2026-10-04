@@ -34,7 +34,7 @@ Where:
 1. **Capability Vector**: Concatenation of sub-vectors:
    $$
    V(C_i) = [ V_{type} \mid V_{inputs} \mid V_{outputs} \mid V_{preconditions} \mid V_{effects} \mid V_{constraints} \mid V_{resources} \mid V_{mechanism} \mid V_{operational} ]
-   $$
+   $$*
 2. **Dense Embedding**: $\mathbf{e}(C_i) = \text{PCA}_{16}(V(C_i))$
 3. **Directional Compatibility Score**:
    $$
@@ -127,3 +127,6 @@ Running the experiment runner will execute all 5 required assignment experiments
 - **Goal Relevance Plot**: `results/plots/plot_goal_relevance.png`
 - **Operational Trade-off Plot**: `results/plots/plot_operational_tradeoff.png`
 - **Full Report**: `technical_report.md`
+
+
+*Kindly use other tools to view the .md file correctly if any symbols in the content of file seems confusing.
