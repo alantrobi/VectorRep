@@ -47,7 +47,7 @@ Where:
 ## 3. Directory & Project Structure
 
 ```
-CapabilityEmbedding/
+VectorRep/
 │
 ├── data/
 │   └── capabilities.json                 # 25 formally specified capabilities
